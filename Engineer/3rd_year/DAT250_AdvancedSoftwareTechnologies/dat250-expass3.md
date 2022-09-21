@@ -57,34 +57,16 @@ Using MangoDB Compass to visualize database :
 
 ![image](https://user-images.githubusercontent.com/83810301/191551628-56a00e15-841d-47c5-9ceb-e29d3511de82.png)
 ![image](https://user-images.githubusercontent.com/83810301/191551704-d32d98b4-508f-40e3-8a4c-278493ddcdeb.png)
+![image](https://user-images.githubusercontent.com/83810301/191553219-7413006b-ce9d-4945-80c2-e517c0e8f960.png)
+
+This implements of Map-reduce can be use to know the money that as been spend to order fruits by days.
 
 
 ## Issues
+
+I didn't encounter particular issues during this assignment excepted the one with MongoDB Compass that doesn't support Map-reduce.
 
 
 ## Side note
 
 This lab assignment was done in collaboration with the following people : Aeneas RUS LIN and Jingwen CHEN
-
-
-
-
-***
-In particular, you should write about:
-
-Technical problems that you encountered during installation and use of MongoDB and how you resolved
-
-Screenshots for:
-
-The correct validation of the installation package (v)
-
-Relevant results obtained during Experiment 1 (it is not necessary to put a single screenshot on each substep, but at least one significant from each CRUD operation).
-
-Experiment 2 example working and the additional Map-reduce operation (and its result) developed by each of you.
-
-Reason about why your implemented Map-reduce operation in Experiment 2 is useful and interpret the collection obtained.
-
-Any pending issues with this assignment which you did not manage to solve
-
-The hand-in should be written in English.
-***
