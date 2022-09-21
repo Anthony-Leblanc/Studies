@@ -12,9 +12,14 @@
 
 ## Issues
 
-## Additionals note
+## Side note
+
+This lab assignment was done in collaboration with the following people : Aeneas RUS LIN and Jingwen CHEN
 
 
+
+
+***
 In particular, you should write about:
 
 Technical problems that you encountered during installation and use of MongoDB and how you resolved
@@ -32,3 +37,4 @@ Reason about why your implemented Map-reduce operation in Experiment 2 is useful
 Any pending issues with this assignment which you did not manage to solve
 
 The hand-in should be written in English.
+***
