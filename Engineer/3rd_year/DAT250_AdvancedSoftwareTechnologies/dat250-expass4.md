@@ -7,5 +7,4 @@ No particular issues were encountered
 https://github.com/Anthony-Leblanc/dat250-sparkjava-counter
 
 ## Side Notes
-
-
+This lab assignment was done in collaboration with the following people : Aeneas RUS LIN and Jingwen CHEN
