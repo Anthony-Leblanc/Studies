@@ -12,7 +12,8 @@ I could not complete this task because of the problems encountered. Although I u
 __ Update__
 I've been able to understand how to implement CRUD https, create methods and bind them to users actions after more time spenting to this assignment.
 
-To start the application, I used the following command : **json-server --watch db.json**, then start the application.
+To start the application, I used the following command : json-server --watch db.json
+Then start the application.
 ```
 
 ## Links to code
