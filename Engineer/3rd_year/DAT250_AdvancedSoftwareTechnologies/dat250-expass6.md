@@ -8,10 +8,17 @@ No issues encountered.
 
 I could not complete this task because of the problems encountered. Although I understand how the API works, it was difficult for me to set up the linking of the http part with java.
 
+'''
+# Update
+I've been able to understand how to implement CRUD https, create methods and bind them to users actions after more time spenting to this assignment.
+
+To start the application, I used the following command : **json-server --watch db.json**, then start the application.
+'''
+
 ## Links to code
 
 Link to code of Experiment 1 : 
 https://github.com/Anthony-Leblanc/Assignement-6-exp1
 
 Link to code of Experiment 2 : 
-https://github.com/Anthony-Leblanc/assignement6
+https://github.com/Anthony-Leblanc/Assignement6-Experiment2-TodoList
